@@ -2,7 +2,6 @@
 
 Academic awards
 
-.jpg)
 
 [ Vietnam Physics Olympia 2021](https://nghiemngh.github.io/Technology-and-Science-contest/Vpho2021.jpg)
 
