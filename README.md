@@ -1,8 +1,15 @@
 # Technology-and-Science-contest
-[Science and Technology contest award](https://nghiemngh.github.io/Technology-and-Science-contest/khoa%20hoc%20ky%20thuat.jpg)
 
-[ ISAS2024](https://nghiemngh.github.io/Technology-and-Science-contest/ISAS2024.jpg)
+Academic awards
+[ Vietnam Physics Olympia 2020](https://nghiemngh.github.io/Technology-and-Science-contest/Vpho2020.jpg)
 
-[ TOEIC](https://nghiemngh.github.io/Technology-and-Science-contest/Toeic.jpg)
+[ Vietnam Physics Olympia 2021](https://nghiemngh.github.io/Technology-and-Science-contest/Vpho2021.jpg)
+
+[  April 30th traditional Olympic
+competition 2019](https://nghiemngh.github.io/Technology-and-Science-contest/Olumpic 30-4.jpg)
+
+[ Ho Chi Minh city Physics Olympia 2020](https://nghiemngh.github.io/Technology-and-Science-contest/HSG 2020.jpg)
+
+[ Ho Chi Minh city Physics Olympia 2021](https://nghiemngh.github.io/Technology-and-Science-contest/HSG 2021.jpg)
 
 
