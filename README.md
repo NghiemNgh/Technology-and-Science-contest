@@ -3,6 +3,6 @@
 
 [ ISAS2024](https://nghiemngh.github.io/Technology-and-Science-contest/ISAS2024.jpg)
 
-[ TOEIC](https://nghiemngh.github.io/Technology-and-Science-contest/Toiec.jpg)
+[ TOEIC](https://nghiemngh.github.io/Technology-and-Science-contest/Toeic.jpg)
 
 
